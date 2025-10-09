@@ -13,7 +13,7 @@
 :root {
   --bs-blue: #2937f0;
   --bs-indigo: #6610f2;
-  --bs-purple: #580fac;
+  --bs-purple: #765b9b;
   --bs-pink: #d63384;
   --bs-red: #dc3545;
   --bs-orange: #fd7e14;
@@ -10877,18 +10877,18 @@ section {
 #mainNav .navbar-toggler {
   font-size: 0.875rem;
   padding: 0.75rem 1rem;
-  color: #5b1888;
+  color: #765b9b;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
-  color: #5b1888;
+  color: #765b9b;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover {
 
    color: var(--bs-purple)
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #5b1888;
+  color: #765b9b;
 }
 
 
