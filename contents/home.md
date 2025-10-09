@@ -1,17 +1,19 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+#### Description
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+WINGs 2026 is the sixth instalment of an annual retreat for women, and other under-represented genders, in number theory and geometry. It is aimed at early-career mathematicians, from PhD onwards. As well as talks by keynote speakers, events will include social activities, which encourage interaction between participants, and short talks, so that participants can learn about each other’s research interests. Our goal is to help cultivate a sense of community among women and other underrepresented genders in number theory and geometry. 
+
+#### Keynote speakers
+Speaker 1 (University of )\
+Speaker 2 (University of )\
 
 #### Contact
+If you have any questions, please contact us via email: wings2026@gmail.com
 
-Email: senli[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### Organisers
+Edwina Aylward (University College London)\
+Natasha Diederen (Imperial College London)\
+Silvia Gangeri (University College London)\
+Júlia Martínez Marín (University of Bristol)\
 
