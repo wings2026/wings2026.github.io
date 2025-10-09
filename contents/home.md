@@ -6,7 +6,7 @@ WINGs 2026 is the sixth instalment of an annual retreat for women, and other und
 
 #### Keynote speakers
 Speaker 1 (University of )\
-Speaker 2 (University of )\
+Speaker 2 (University of )
 
 #### Contact
 If you have any questions, please contact us via email: wings2026@gmail.com
@@ -15,5 +15,5 @@ If you have any questions, please contact us via email: wings2026@gmail.com
 Edwina Aylward (University College London)\
 Natasha Diederen (Imperial College London)\
 Silvia Gangeri (University College London)\
-Júlia Martínez Marín (University of Bristol)\
+Júlia Martínez-Marín (University of Bristol)
 
