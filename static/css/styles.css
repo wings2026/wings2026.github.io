@@ -10881,14 +10881,14 @@ section {
 }
 #mainNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
-  color: #765b9b;
+  color: #060C0C;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover {
 
    color: var(--bs-purple)
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #765b9b;
+  color: #5b1888;
 }
 
 
