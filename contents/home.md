@@ -2,7 +2,7 @@
 
 #### Description
 
-WINGs 2026 is the sixth instalment of an annual retreat for women, and other underrepresented genders, in number theory and geometry. It is aimed at early-career mathematicians, from PhD onwards. As well as talks by keynote speakers, events will include social activities, which encourage interaction between participants, and short talks, so that participants can learn about each other’s research interests. Our goal is to help cultivate a sense of community among women and other underrepresented genders in number theory and geometry. 
+WINGs 2026 is the sixth instalment of an annual retreat for women and other underrepresented genders, in number theory and geometry. It is aimed at early-career mathematicians, from PhD onwards. As well as talks by keynote speakers, events will include social activities, which encourage interaction between participants, and short talks, so that participants can learn about each other’s research interests. Our goal is to help cultivate a sense of community among women and other underrepresented genders in number theory and geometry. 
 
 #### Keynote speakers
 
