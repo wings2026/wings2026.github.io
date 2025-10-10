@@ -28,6 +28,7 @@
 .top-section .top-section-content {
     position: relative;
     z-index: 1;
+    text-align: center;
 }
 
 .top-section:before {
