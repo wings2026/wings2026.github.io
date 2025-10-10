@@ -13,8 +13,8 @@
 :root {
   --bs-blue: #2937f0;
   --bs-indigo: #6610f2;
-  --bs-purple: #5b1888;
-  --bs-pink: #d63384;
+  --bs-purple: #7a467d;
+  --bs-pink: #c40077;
   --bs-red: #dc3545;
   --bs-orange: #fd7e14;
   --bs-yellow: #ffc107;
@@ -74,7 +74,7 @@
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
   --bs-link-color: #212529;
-  --bs-link-hover-color: #7a5592;
+  --bs-link-hover-color: #c40077;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
 }
@@ -10885,10 +10885,10 @@ section {
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover {
 
-   color: var(--bs-purple)
+   color: var(--bs-pink)
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #5b1888;
+  color: #c40077;
 }
 
 
