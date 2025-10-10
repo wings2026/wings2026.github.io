@@ -8215,7 +8215,7 @@ textarea.form-control-lg {
 }
 
 .bg-gradient {
-  background-image: var(--bs-gradient) !important;
+  background-image: none !important;
 }
 
 .user-select-all {
