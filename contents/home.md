@@ -17,7 +17,7 @@ Speakers marked with * are to be confirmed.
 
 
 #### Contact
-If you have any questions, please contact us via email: wings2026@gmail.com
+If you have any questions, please contact us via email: wings2026conference@gmail.com
 
 #### Organisers
 Edwina Aylward (University College London)\
