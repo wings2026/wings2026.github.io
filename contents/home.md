@@ -6,11 +6,11 @@ WINGs 2026 is the sixth instalment of an annual retreat for women, and other und
 
 #### Keynote speakers
 
-Julie Desjardins (University of Toronto Mississauga)
-Paola Frediani (Università di Pavia)
-Jasmin Raissy* (Université de Bordeaux)
-Melanie Rupflin (University of Oxford)
-Soumya Sankar* (Universiteit Utrecht)
+Julie Desjardins (University of Toronto Mississauga)\
+Paola Frediani (Università di Pavia)\
+Jasmin Raissy* (Université de Bordeaux)\
+Melanie Rupflin (University of Oxford)\
+Soumya Sankar* (Universiteit Utrecht)\
 Lejla Smajlović (University of Sarajevo)
 
 Speakers marked with * are to be confirmed.
