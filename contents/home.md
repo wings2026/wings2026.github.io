@@ -8,6 +8,7 @@ WINGs 2026 is the sixth instalment of an annual retreat for women and other unde
 
 Julie Desjardins (University of Toronto Mississauga)\
 Paola Frediani (Università di Pavia)\
+Charlotte Kestner (Imperial College London)\
 Jasmin Raissy* (Université de Bordeaux)\
 Melanie Rupflin (University of Oxford)\
 Soumya Sankar* (Universiteit Utrecht)\
