@@ -6,6 +6,7 @@ WINGs 2026 is the sixth instalment of an annual retreat for women and other unde
 
 #### Keynote speakers
 
+Nirvana Coppola (Università di Padova)\
 Julie Desjardins (University of Toronto Mississauga)\
 Paola Frediani (Università di Pavia)\
 Charlotte Kestner (Imperial College London)\
