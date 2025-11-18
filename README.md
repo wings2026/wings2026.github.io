@@ -1,1 +1,1 @@
-wings2026.github.io
+https://wings2026.github.io
