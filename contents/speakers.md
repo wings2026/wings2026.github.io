@@ -1,7 +1,7 @@
-#### Nirvana Coppola, Università di Padova
-#### Julie Desjardins, University of Toronto Mississauga
-#### Paola Frediani, Università di Pavia
-#### Charlotte Kestner, Imperial College London
-#### Jasmin Raissy, Université de Bordeaux
-#### Melanie Rupflin, University of Oxford
-#### Lejla Smajlović, University of Sarajevo
+- Nirvana Coppola, Università di Padova
+- Julie Desjardins, University of Toronto Mississauga
+- Paola Frediani, Università di Pavia
+- Charlotte Kestner, Imperial College London
+- Jasmin Raissy, Université de Bordeaux
+- Melanie Rupflin, University of Oxford
+- Lejla Smajlović, University of Sarajevo
