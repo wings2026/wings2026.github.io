@@ -10919,10 +10919,9 @@ footer a:hover, footer a:active, footer a:focus {
 .speaker img {
   width: 150px;        /* adjust size */
   height: auto;
-  border-radius: 8px;
 }
 
-.speaker-info h3 {
+.speaker-info h4 {
   margin: 0 0 5px;
 }
 
