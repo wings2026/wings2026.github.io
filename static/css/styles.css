@@ -10911,9 +10911,10 @@ footer a:hover, footer a:active, footer a:focus {
 
 .speaker {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 20px;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
+  margin-top: 35px;
 }
 
 .speaker img {
