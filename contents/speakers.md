@@ -55,7 +55,7 @@ fascinated by mathematical formalisation.</p>
   <img src="static/assets/img/Lejla.jpg" alt="Speaker Name">
   <div class="speaker-info">
     <h3>Lejla Smajlović, University of Sarajevo</h3>
-    <p></p>
+    <p>Lejla Smajlović received her PhD from the University of Sarajevo in 2003 and since then was holding different positions at the same University, becoming a Professor in 2013. She currently serves as a Managing Editor of the Journal of Number Theory and is active in the Women in Numbers Europe network. Her research interests are in differential operators, automorphic forms and zeta functions and their applications, following the ideas of Atle Selberg.  She is also interested in studying and applying properties of heat diffusion in different classes of measurable and Hilbert spaces, and in different timescales.</p>
   </div>
 </div>
 
