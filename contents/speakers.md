@@ -19,8 +19,43 @@ fascinated by mathematical formalisation.</p>
   </div>
 </div>
 
-- Paola Frediani, Università di Pavia
-- Charlotte Kestner, Imperial College London
-- Jasmin Raissy, Université de Bordeaux
-- Melanie Rupflin, University of Oxford
-- Lejla Smajlović, University of Sarajevo
+<div class="speaker">
+  <img src="static/assets/img/Paola.jpg" alt="Speaker Name">
+  <div class="speaker-info">
+    <h3>Paola Frediani, Università di Pavia</h3>
+    <p></p>
+  </div>
+</div>
+
+<div class="speaker">
+  <img src="static/assets/img/Charlotte.jpg" alt="Speaker Name">
+  <div class="speaker-info">
+    <h3>Charlotte Kestner, Imperial College London</h3>
+    <p></p>
+  </div>
+</div>
+
+<div class="speaker">
+  <img src="static/assets/img/Jasmin.jpg" alt="Speaker Name">
+  <div class="speaker-info">
+    <h3>Jasmin Raissy, Université de Bordeaux</h3>
+    <p></p>
+  </div>
+</div>
+
+<div class="speaker">
+  <img src="static/assets/img/Melanie.jpg" alt="Speaker Name">
+  <div class="speaker-info">
+    <h3>Melanie Rupflin, University of Oxford</h3>
+    <p></p>
+  </div>
+</div>
+
+<div class="speaker">
+  <img src="static/assets/img/Lejla.jpg" alt="Speaker Name">
+  <div class="speaker-info">
+    <h3>Lejla Smajlović, University of Sarajevo</h3>
+    <p></p>
+  </div>
+</div>
+
