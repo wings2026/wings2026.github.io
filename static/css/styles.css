@@ -167,6 +167,7 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  margin-left: 0.5rem;
 }
 
 abbr[title] {
@@ -10924,6 +10925,7 @@ footer a:hover, footer a:active, footer a:focus {
 
 .speaker-info h4 {
   margin: 0 0 5px;
+  margin-left: 0.5rem;
 }
 
 @media (max-width: 600px) {
