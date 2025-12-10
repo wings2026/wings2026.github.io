@@ -23,7 +23,7 @@ fascinated by mathematical formalisation.</p>
   <img src="static/assets/img/Paola.jpg" alt="">
   <div class="speaker-info">
     <strong>Paola Frediani, Università di Pavia</strong>
-    <p></p>
+    <p>Paola obtained her PhD from Università di Pisa in 1998, under the supervision of Fabrizio Catanese. She had postdoctoral positions in Göttingen and Pisa. Her research interests are moduli spaces of curves, abelian varieties, Hodge theory. Since 2001 she has had permanent positions at Università di Pavia, where she is full professor since 2020.</p>
   </div>
 </div>
 
