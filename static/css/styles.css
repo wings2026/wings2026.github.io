@@ -10938,7 +10938,7 @@ footer a:hover, footer a:active, footer a:focus {
 
 /* Sponsor Section */
 .sponsors-section {
-  background: white; /* solid white background */
+  background: #fdfdfd; /* solid white background */
   padding: 50px 20px;
   text-align: center;
   font-family: 'Open Sans', sans-serif; /* match site */
@@ -10962,9 +10962,9 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .sponsor-item {
-  background: #fff; /* ensure box is white */
-  padding: 12px;
-  border-radius: 8px;
+  background: #fdfdfd; /* ensure box is white */
+  padding: 0px;
+  border-radius: 0px;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   display: flex;
   justify-content: center;
