@@ -47,7 +47,8 @@ fascinated by mathematical formalisation.</p>
   <img src="static/assets/img/Melanie.jpg" alt="">
   <div class="speaker-info">
     <strong>Melanie Rupflin, University of Oxford</strong>
-    <p></p>
+    <p> Melanie Rupflin obtained her PhD from ETH Zurich in 2010. After postdoc positions at the University of Warwick, the MPI in Gravitational Physics in Potsdam and the University of Leipzig she joined the Mathematical Institute of the University of Oxford in 2015 as an associate professor and was recently promoted to full professor. A particular focus of her research in geometric analysis, is the quantitative analysis of geometric variational problems and PDEs.
+ </p>
   </div>
 </div>
 
