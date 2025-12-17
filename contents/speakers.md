@@ -36,14 +36,6 @@ fascinated by mathematical formalisation.</p>
 </div>
 
 <div class="speaker">
-  <img src="static/assets/img/Jasmin.jpg" alt="">
-  <div class="speaker-info">
-    <strong>Jasmin Raissy, Université de Bordeaux</strong>
-    <p></p>
-  </div>
-</div>
-
-<div class="speaker">
   <img src="static/assets/img/Melanie.jpg" alt="">
   <div class="speaker-info">
     <strong>Melanie Rupflin, University of Oxford</strong>
