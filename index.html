@@ -80,11 +80,7 @@
     
 </head>
 
-<body id="page-top"
-  data-bs-spy="scroll"
-  data-bs-target="#mainNav"
-  data-bs-offset="110"
-  tabindex="0">
+<body id="page-top">
     
     <!-- Navigation-->
     <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
@@ -271,25 +267,6 @@
         </div>
     </footer>
 
-         <!-- Scroll of navigation bar -->
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  // Remove any pre-set active classes
-  document.querySelectorAll('#mainNav .nav-link').forEach(link => {
-    link.classList.remove('active');
-  });
-
-  // Initialize ScrollSpy
-  const scrollSpy = new bootstrap.ScrollSpy(document.body, {
-    target: '#mainNav',
-    offset: 110
-  });
-
-  // Refresh to detect correct section
-  scrollSpy.refresh();
-});
-</script>
-    
 </body>
 
 </html>
