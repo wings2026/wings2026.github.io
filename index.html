@@ -79,12 +79,23 @@
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
 
      <!-- Scroll of navigation bar -->
-    <script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // Remove any pre-set active classes
+  document.querySelectorAll('#mainNav .nav-link').forEach(link => {
+    link.classList.remove('active');
+  });
+
+  // Initialize ScrollSpy
   const scrollSpy = new bootstrap.ScrollSpy(document.body, {
     target: '#mainNav',
     offset: 110
-    });
-   </script>
+  });
+
+  // Refresh to detect correct section
+  scrollSpy.refresh();
+});
+</script>
     
 </head>
 
