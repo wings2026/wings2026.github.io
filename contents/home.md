@@ -13,9 +13,6 @@ Charlotte Kestner (Imperial College London)\
 Melanie Rupflin (University of Oxford)\
 Lejla Smajlović (University of Sarajevo)
 
-#### Registration
-Applications for this event will open in early January and will close on the 31st of January.
-
 #### Contact
 If you have any questions, please contact us via email: wings2026conference@gmail.com
 
