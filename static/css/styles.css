@@ -10887,10 +10887,10 @@ section {
 
    color: var(--bs-pink)
 }
-#mainNav .navbar-nav .nav-item .nav-link.active {
+/*#mainNav .navbar-nav .nav-item .nav-link.active {
   color: #c40077;
 }
-
+*/
 
 .user-photo {
   display: flex;
