@@ -10983,6 +10983,9 @@ footer a:hover, footer a:active, footer a:focus {
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
-
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
 
 
