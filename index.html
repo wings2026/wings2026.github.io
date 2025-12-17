@@ -77,25 +77,6 @@
     <!-- Core JS-->
     <script type="text/javascript" src="static/js/scripts.js"></script>
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
-
-     <!-- Scroll of navigation bar -->
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  // Remove any pre-set active classes
-  document.querySelectorAll('#mainNav .nav-link').forEach(link => {
-    link.classList.remove('active');
-  });
-
-  // Initialize ScrollSpy
-  const scrollSpy = new bootstrap.ScrollSpy(document.body, {
-    target: '#mainNav',
-    offset: 110
-  });
-
-  // Refresh to detect correct section
-  scrollSpy.refresh();
-});
-</script>
     
 </head>
 
@@ -290,6 +271,25 @@ document.addEventListener("DOMContentLoaded", function () {
         </div>
     </footer>
 
+         <!-- Scroll of navigation bar -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // Remove any pre-set active classes
+  document.querySelectorAll('#mainNav .nav-link').forEach(link => {
+    link.classList.remove('active');
+  });
+
+  // Initialize ScrollSpy
+  const scrollSpy = new bootstrap.ScrollSpy(document.body, {
+    target: '#mainNav',
+    offset: 110
+  });
+
+  // Refresh to detect correct section
+  scrollSpy.refresh();
+});
+</script>
+    
 </body>
 
 </html>
