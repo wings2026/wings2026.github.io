@@ -61,22 +61,3 @@ window.addEventListener('DOMContentLoaded', event => {
     })
 
 }); 
-
-window.addEventListener('scroll', () => {
-    const sections = document.querySelectorAll('section[id]');
-    const scrollY = window.pageYOffset;
-
-    sections.forEach(section => {
-        const sectionTop = section.offsetTop - 74; 
-        const sectionHeight = section.offsetHeight;
-        const sectionId = section.getAttribute('id');
-
-        const navLink = document.querySelector(`#navbarResponsive .nav-link[href="#${sectionId}"]`);
-
-        if (scrollY >= sectionTop && scrollY < sectionTop + sectionHeight) {
-            navLink.classList.add('active');
-        } else {
-            navLink.classList.remove('active');
-        }
-    });
-});
