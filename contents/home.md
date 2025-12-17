@@ -10,11 +10,8 @@ Nirvana Coppola (Università di Padova)\
 Julie Desjardins (University of Toronto Mississauga)\
 Paola Frediani (Università di Pavia)\
 Charlotte Kestner (Imperial College London)\
-Jasmin Raissy* (Université de Bordeaux)\
 Melanie Rupflin (University of Oxford)\
 Lejla Smajlović (University of Sarajevo)
-
-Speakers marked with * are to be confirmed.
 
 #### Registration
 Applications for this event will open in early January and will close on the 31st of January.
