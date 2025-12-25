@@ -1,5 +1,13 @@
 
 <div class="speaker">
+  <img src="static/assets/img/Jenny.jpg" alt="">
+  <div class="speaker-info">
+    <strong>Jenny Cooley, Department for Education</strong>
+    <p></p>
+  </div>
+</div>
+
+<div class="speaker">
   <img src="static/assets/img/Nirvana.jpg" alt="">
   <div class="speaker-info">
     <strong>Nirvana Coppola, Università di Padova</strong>
