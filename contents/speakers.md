@@ -36,10 +36,9 @@ fascinated by mathematical formalisation.</p>
 </div>
 
 <div class="speaker">
-  <img src="static/assets/img/Charlotte.jpg" alt="">
   <div class="speaker-info">
     <strong>Charlotte Kestner, Imperial College London</strong>
-    <p></p>
+    <p>Charlotte received her PhD in Model Theory from the University of Leeds in 2012. After a year teaching in Oxford University, she had a lectureship at UCLan (now University of Lancashire), before moving to Imperial College London for a teaching focused position. There she became Admissions Tutor for the Mathematics Undergraduate degree, which sparked her academic interest in encouraging women into Mathematics. She wrote her MEd Thesis on barriers to women entering the Imperial Mathematics degree, and has a PhD student working on the topic. Charlotte is now a Principal Lecturer and Deputy Head of the Mathematics Department at Imperial.</p>
   </div>
 </div>
 
