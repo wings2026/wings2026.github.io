@@ -1,1 +1,1 @@
-Applications for this event will open in **early January** and will close on the **31st of January**.
+To apply, please fill out [this form](https://forms.gle/P1Z5rX73dFV7EpAMA). The application deadline is the **31st of January**.
