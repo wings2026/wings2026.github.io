@@ -43,6 +43,14 @@ fascinated by mathematical formalisation.</p>
 </div>
 
 <div class="speaker">
+  <img src="static/assets/img/Marie-Amelie.jpg" alt="">
+  <div class="speaker-info">
+    <strong>Marie-Amelie Lawn, Imperial College London</strong>
+    <p></p>
+  </div>
+</div>#
+
+<div class="speaker">
   <img src="static/assets/img/Melanie.jpg" alt="">
   <div class="speaker-info">
     <strong>Melanie Rupflin, University of Oxford</strong>
