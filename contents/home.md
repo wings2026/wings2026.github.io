@@ -11,6 +11,7 @@ Nirvana Coppola (Università di Padova)\
 Julie Desjardins (University of Toronto Mississauga)\
 Paola Frediani (Università di Pavia)\
 Charlotte Kestner (Imperial College London)\
+Marie-Amelie Lawn (Imperial College London)\
 Melanie Rupflin (University of Oxford)\
 Lejla Smajlović (University of Sarajevo)
 
