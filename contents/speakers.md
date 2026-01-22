@@ -48,7 +48,7 @@ fascinated by mathematical formalisation.</p>
     <strong>Marie-Amelie Lawn, Imperial College London</strong>
     <p></p>
   </div>
-</div>#
+</div>
 
 <div class="speaker">
   <img src="static/assets/img/Melanie.jpg" alt="">
