@@ -1,12 +1,10 @@
 <strong style="color:#72598b;">Torsion points on $GL_2$-type abelian varieties</strong>**, Nirvana Coppola (Università di Padova)** \
 **Abstract:** In 1977, Mazur proved that there is a finite complete list of finite groups that occur as torsion subgroups of some elliptic curve defined over the rational numbers. After that, a lot of partial progress has been made in order to generalise this result to other contexts, such as for elliptic curves defined over a number field, or for abelian varieties of higher dimension. However, even for abelian surfaces, a complete list of possible torsion subgroups is only known under some assumption on the endomorphism algebra (i.e. having potential quaternionic multiplication). In this talk, I will focus on abelian varieties of $GL_2$-type and give a generalisation of a theorem of Katz (1981) that can be used to find an upper bound to and, sometimes, completely determine the size of the torsion subgroup. I will then show how to implement this result to print a list of possible torsion subgroup orders for abelian varieties of $GL_2$-type over $\mathbb{Q}$ of a given dimension. This is joint work with Jessica Alessandrì (MPIM Bonn).
 
-\
 
 <strong style="color:#72598b;">On the geometry of the Torelli locus</strong>**,  Paola Frediani (Università di Pavia)** \
 **Abstract:** I will report on some results on the geometry of the Torelli locus in $A_g$. I will concentrate on the study asymptotic directions in the tangent bundle of the moduli space of curves of genus g, namely those tangent directions that are annihilated by the second fundamental form of the Torelli map. I will show that there exist examples of asymptotic directions for any g >3. I will present one main result obtained in collaboration with E. Colombo and G.P. Pirola, saying that  if the rank of a tangent direction at [C] (with respect to the infinitesimal deformation map) is less than the Clifford index of the curve C, then the tangent direction is not asymptotic. 
 
-\
 
 <strong style="color:#72598b;">Quantitative estimates for geometric variational problems</strong>**,  Melanie Rupflin (University of Oxford)** \
 **Abstract:** Many interesting geometric objects are characterised as minimisers or critical points of natural geometric quantities such as the length of a curve, the area of a surface or the energy of a map.
