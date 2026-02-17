@@ -3,7 +3,7 @@
 
 
 <h4 style="color:#72598b;">On the geometry of the Torelli locus, Paola Frediani (Università di Pavia)</h4>
-<strong>Abstract:</strong> I will report on some results on the geometry of the Torelli locus in $A_g$. I will concentrate on the study asymptotic directions in the tangent bundle of the moduli space of curves of genus g, namely those tangent directions that are annihilated by the second fundamental form of the Torelli map. I will show that there exist examples of asymptotic directions for any g >3. I will present one main result obtained in collaboration with E. Colombo and G.P. Pirola, saying that  if the rank of a tangent direction at [C] (with respect to the infinitesimal deformation map) is less than the Clifford index of the curve C, then the tangent direction is not asymptotic. 
+<strong>Abstract:</strong> I will report on some results on the geometry of the Torelli locus in $\mathcal{A}_g$. I will concentrate on the study asymptotic directions in the tangent bundle of the moduli space of curves of genus g, namely those tangent directions that are annihilated by the second fundamental form of the Torelli map. I will show that there exist examples of asymptotic directions for any g >3. I will present one main result obtained in collaboration with E. Colombo and G.P. Pirola, saying that  if the rank of a tangent direction at [C] (with respect to the infinitesimal deformation map) is less than the Clifford index of the curve C, then the tangent direction is not asymptotic. 
 
 
 <h4 style="color:#72598b;">Quantitative estimates for geometric variational problems, Melanie Rupflin (University of Oxford)</h4>
