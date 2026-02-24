@@ -3,7 +3,9 @@
   <img src="static/assets/img/Jenny.jpg" alt="">
   <div class="speaker-info">
     <strong>Jenny Cooley, Department for Education</strong>
-    <p></p>
+    <p> Jenny completed her PhD at the University of Warwick in 2014, researching cubic surfaces over finite fields under the supervision of Professor Samir Sikek. Alongside her studies, she led the Young Researchers in Mathematics conference, contributed to Warwick’s Athena Swan work, taught problems classes and supervisions, and supported students pastorally in halls.
+In 2015, she joined the Government Operational Research Service and has since taken on a variety of analytical roles mostly within the Department for Education. Her work has ranged from forecasting multi‑billion‑pound school funding budgets to redesigning financial data systems for FE colleges and leading analysis for DfE’s sustainability and climate change strategy.
+Jenny now heads an analytical team supporting the Higher Education policy, where she develops approaches using both mathematical modelling and systems thinking. Outside of work, she enjoys walking, climbing, singing with a jazz band, and life in Sheffield with her family.</p>
   </div>
 </div>
 
