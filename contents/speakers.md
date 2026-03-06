@@ -48,7 +48,7 @@ fascinated by mathematical formalisation.</p>
   <img src="static/assets/img/Marie-Amelie.jpg" alt="">
   <div class="speaker-info">
     <strong>Marie-Amelie Lawn, Imperial College London</strong>
-    <p></p>
+    <p>She completed a PhD at the University of Bonn in 2007, and  arrived at Imperial College London in 2015 where she is now a Senior Strategic Teaching Fellow in Pure Mathematics. She works in differential geometry, with a focus on spin geometry, homogeneous spaces, and mean curvature flow. She is particularly interested in perspectives coming from symmetries and group actions, especially when they provide a clean conceptual framework for geometric problems. Alongside her research, she is actively involved in teaching, curriculum development, and projects aimed at improving feedback and student learning in university-level mathematics.</p>
   </div>
 </div>
 
