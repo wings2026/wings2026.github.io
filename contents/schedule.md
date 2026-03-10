@@ -2,7 +2,7 @@
 
 <div style="text-align:center;">
   <a href="static/assets/img/ScheduleWINGs.png">
-    <img src="static/assets/img/ScheduleWINGs.png" style="width:80%; max-width:900px;">
+    <img src="static/assets/img/ScheduleWINGs.png" style="width:100%; max-width:900px;">
   </a>
 </div>
 
