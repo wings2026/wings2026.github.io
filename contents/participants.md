@@ -37,7 +37,7 @@ Ashleigh Ratcliffe — University of Leicester\
 Naomi Rosenberg — Imperial College London\
 Cat Rust — QMUL\
 Chiara Sabadin — Universität Regensburg\
-Mehidi Sara — Utrecht University\
+Sara Mehidi — Utrecht University\
 Ananya Satoskar — LSGNT\
 Eunike Setiawan — Imperial College London\
 Sièna van Schaick — Radboud University\
