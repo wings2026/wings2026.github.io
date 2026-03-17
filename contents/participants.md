@@ -26,6 +26,7 @@ Anna MacIain — University of Glasgow\
 Tomás Laorni Manopulo — University of Utrecht\
 Sofía Marlasca Aparicio — University of Oxford\
 Júlia Martínez-Marín — University of Bristol\
+Sara Mehidi — Utrecht University\
 Lucia Noelle — University of Glasgow\
 Emma Pechouckova — Charles University\
 Lucy Phillips — Imperial College London\
@@ -37,7 +38,6 @@ Ashleigh Ratcliffe — University of Leicester\
 Naomi Rosenberg — Imperial College London\
 Cat Rust — QMUL\
 Chiara Sabadin — Universität Regensburg\
-Sara Mehidi — Utrecht University\
 Ananya Satoskar — LSGNT\
 Eunike Setiawan — Imperial College London\
 Sièna van Schaick — Radboud University\
