@@ -17,7 +17,6 @@ Simona Fryšová — Charles University\
 Silvia Gangeri — UCL (LSGNT)\
 Thais Gomes Ribeiro — University of Birmingham\
 Samira le Grand — Utrecht University\
-Annalisa Grossi — Università degli Studi di Bologna\
 Anisa Hassan — Brunel University of London\
 Abigail Hollingsworth — University of Warwick\
 Isabella Lewis — The Open University\
@@ -41,7 +40,6 @@ Chiara Sabadin — Universität Regensburg\
 Ananya Satoskar — LSGNT\
 Eunike Setiawan — Imperial College London\
 Sièna van Schaick — Radboud University\
-Amira Tlemsani — Leiden University\
 Juliet Treip — University of Bristol\
 Sara Varljen — King's College London (LSGNT)\
 Ana Marija Vego — ETH Zurich\
