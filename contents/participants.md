@@ -45,4 +45,6 @@ Sara Varljen — King's College London (LSGNT)\
 Ana Marija Vego — ETH Zurich\
 Maartje Wisse — King's College London (LSGNT)\
 Lena Wurzinger — Institute of Science and Technology Austria (ISTA)\
+Monika Zakrzewska - Universität Bonn\
 Anna Zanoli — ISTA - Institute of Science and Technology Austria
+
