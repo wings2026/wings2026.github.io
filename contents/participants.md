@@ -1,9 +1,7 @@
-Raghda Abdellatif — Humboldt Universität zu Berlin \
 Audrey Antoine — Utrecht University \
 Disha Atukuri — University of Bordeaux \
 Edwina Aylward — UCL (LSGNT) \
 Mia Beard — University of Oxford\
-Valeria Bertini — Università Statale di Milano\
 Mebarka Bettayeb — Universität Basel\
 Laura Bradby — Warwick University\
 Eva Brenner — Ludwig-Maximilians-Universität München\
@@ -19,10 +17,10 @@ Thais Gomes Ribeiro — University of Birmingham\
 Samira le Grand — Utrecht University\
 Anisa Hassan — Brunel University of London\
 Abigail Hollingsworth — University of Warwick\
+Tomás Laorni Manopulo — University of Utrecht\
 Isabella Lewis — The Open University\
 Lucrezia Beatrice Lorenzi — Scuola Internazionale Superiore di Studi Avanzati (SISSA)\
 Anna MacIain — University of Glasgow\
-Tomás Laorni Manopulo — University of Utrecht\
 Sofía Marlasca Aparicio — University of Oxford\
 Júlia Martínez-Marín — University of Bristol\
 Sara Mehidi — Utrecht University\
