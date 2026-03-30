@@ -135,7 +135,6 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 <div class="contributed-talk">
   <p><strong>Teresa Ferrer de Noguera</strong></p>
   <p><strong>Title: </strong>On Galois representations of A5-type</p>
-  <p><strong>Abstract: </strong></p>
 </div>
 
 <div class="contributed-talk">
@@ -156,13 +155,11 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 <div class="contributed-talk">
   <p><strong>Giovanna De Lauri</strong></p>
   <p><strong>Title: </strong>Hecke modules and ternary quadratic lattices</p>
-  <p><strong>Abstract: </strong></p>
 </div>
 
 <div class="contributed-talk">
   <p><strong>Ana Marija Vego</strong></p>
   <p><strong>Title: </strong>Interpolating Asai-Flach classes in Coleman families</p>
-  <p><strong>Abstract: </strong></p>
 </div>
 
 </details>
@@ -195,7 +192,6 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 <div class="contributed-talk">
   <p><strong>Ashleigh Ratcliffe</strong></p>
   <p><strong>Title: </strong>Integers expressible as a difference of two rational fourth powers</p>
-  <p><strong>Abstract: </strong></p>
 </div>
 
 <div class="contributed-talk">
