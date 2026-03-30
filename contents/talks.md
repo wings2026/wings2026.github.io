@@ -24,24 +24,28 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 <div class="contributed-talks">Contributed talks</div>
 <details>
   <summary>Monday afternoon</summary>
-   <p>Abigail Hollingsworth</p>
-   <p><strong>Title:</strong> The Magic Braid Group</p>
-  <p><strong>Abstract:</strong> We model configurations of these twisted strips of leather using framed braids and the manipulations of a leatherworker with a list of relations. We define the Leather Braid Group as the quotient of the framed braid group by these relations. The real magic of the leatherworker is apparent when they are able to successfully turn what was once a humble piece of leather into a non-trivial braid of leather strips that lie somehow lie flat after the right sequence of manipulations is performed. We provide a group theoretic definition of this Magic Braid Group as a subgroup of the ordinary planar braid group and show that the fishtail braids form an infinite family of magic braids.</p>
+    <div class="contributed-talk">
+       <p>Abigail Hollingsworth</p>
+       <p><strong>Title:</strong> The Magic Braid Group</p>
+       <p><strong>Abstract:</strong> We model configurations of these twisted strips of leather using framed braids and the manipulations of a leatherworker with a list of relations. We define the Leather Braid Group as the quotient of the framed braid group by these relations. The real magic of the leatherworker is apparent when they are able to successfully turn what was once a humble piece of leather into a non-trivial braid of leather strips that lie somehow lie flat after the right sequence of manipulations is performed. We provide a group theoretic definition of this Magic Braid Group as a subgroup of the ordinary planar braid group and show that the fishtail braids form an infinite family of magic braids.</p>
+    </div>
+    <div class="contributed-talk">
+    <p>Juliet Treip</p>
+     <p><strong>Title:</strong> Box spaces of groups</p>
+    <p><strong>Abstract:</strong> The box space $\square_{(N_i)}(G)$ of a finitely generated residually finite infinite group $G$ with respect to a filtration $(N_n)$ of $G$ and a finite generating set $S$ of $G$ is the metric space on the disjoint union of the quotients $(G/N_n)_n$ in which the metric on each component $G/N_n$ is the Cayley-graph metric induced by $S$. Box spaces often have unusual geometric properties that reflect the underlying algebraic or analytic properties of the original infinite group; for example, box spaces are generally more difficult to cut than the original space from which they are constructed, meaning they have a greater separation profile. In this talk I will discuss some of the properties of box spaces, how they compare to those of the original space, and how we can use box spaces to gain insight into properties of the original space.</p>
+  </div>
 
-  <p>Juliet Treip</p>
-   <p><strong>Title:</strong> Box spaces of groups</p>
-  <p><strong>Abstract:</strong> The box space $\square_{(N_i)}(G)$ of a finitely generated residually finite infinite group $G$ with respect to a filtration $(N_n)$ of $G$ and a finite generating set $S$ of $G$ is the metric space on the disjoint union of the quotients $(G/N_n)_n$ in which the metric on each component $G/N_n$ is the Cayley-graph metric induced by $S$. Box spaces often have unusual geometric properties that reflect the underlying algebraic or analytic properties of the original infinite group; for example, box spaces are generally more difficult to cut than the original space from which they are constructed, meaning they have a greater separation profile. In this talk I will discuss some of the properties of box spaces, how they compare to those of the original space, and how we can use box spaces to gain insight into properties of the original space.</p>
-</div>
-
-<p>Naina Praveen</p>
-   <p><strong>Title:</strong> Is this Clickbait?</p>
-  <p><strong>Abstract:</strong> Is the viral "fruit equation" really just a meme? Join Mr. Orange, Mr. Bourbaki, and Erif as they tackle a "99.9% of people cannot solve this"-puzzle. In this 20-minute quest, we will navigate a world of atoms (primes), portals (reduction types), and diamonds (Kodaira types). Along the way, we’ll collect a variety of mushrooms to help us reach the maximum high score -- a loot of infinite diamonds! :)</p>
-</div>
-
-<p>Sara Varljen</p>
-   <p><strong>Title:</strong> Computing a presentation for Bianchi groups</p>
-  <p><strong>Abstract:</strong> Bianchi groups, defined as $\operatorname{PSL}_2(\mathcal{O_k})$ where $\mathcal{O_k}$ is the ring of integers of an imaginary quadratic field $k$, are a higher-dimensional analogue of the classical modular group. Just as $\operatorname{PSL}_2(\mathbb{Z})$ acts on the upper half-plane, Bianchi groups act on hyperbolic 3-space. In this talk, I will outline the geometric properties of these groups and present the construction of a deformation retract of the hyperbolic 3-space that is invariant under their action. This retract is a CW-complex which can be useful for computing spaces of Bianchi modular forms, but we will focus on using it to recover a formal presentation for the group. We will go through Brown's algorithm for finding generators and relations for the group by looking at a concrete example.</p>
-</div>
+ <div class="contributed-talk">
+  <p>Naina Praveen</p>
+     <p><strong>Title:</strong> Is this Clickbait?</p>
+    <p><strong>Abstract:</strong> Is the viral "fruit equation" really just a meme? Join Mr. Orange, Mr. Bourbaki, and Erif as they tackle a "99.9% of people cannot solve this"-puzzle. In this 20-minute quest, we will navigate a world of atoms (primes), portals (reduction types), and diamonds (Kodaira types). Along the way, we’ll collect a variety of mushrooms to help us reach the maximum high score -- a loot of infinite diamonds! :)</p>
+  </div>
+  
+   <div class="contributed-talk">
+      <p>Sara Varljen</p>
+      <p><strong>Title:</strong> Computing a presentation for Bianchi groups</p>
+      <p><strong>Abstract:</strong> Bianchi groups, defined as $\operatorname{PSL}_2(\mathcal{O_k})$ where $\mathcal{O_k}$ is the ring of integers of an imaginary quadratic field $k$, are a higher-dimensional analogue of the classical modular group. Just as $\operatorname{PSL}_2(\mathbb{Z})$ acts on the upper half-plane, Bianchi groups act on hyperbolic 3-space. In this talk, I will outline the geometric properties of these groups and present the construction of a deformation retract of the hyperbolic 3-space that is invariant under their action. This retract is a CW-complex which can be useful for computing spaces of Bianchi modular forms, but we will focus on using it to recover a formal presentation for the group. We will go through Brown's algorithm for finding generators and relations for the group by looking at a concrete example.</p>
+  </div>
 
 
 </details>
