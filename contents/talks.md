@@ -25,24 +25,24 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 <details>
   <summary>Monday afternoon</summary>
     <div class="contributed-talk">
-       <p>Abigail Hollingsworth</p>
+       <p><strong>Abigail Hollingsworth</strong></p>
        <p><strong>Title:</strong> The Magic Braid Group</p>
        <p><strong>Abstract:</strong> We model configurations of these twisted strips of leather using framed braids and the manipulations of a leatherworker with a list of relations. We define the Leather Braid Group as the quotient of the framed braid group by these relations. The real magic of the leatherworker is apparent when they are able to successfully turn what was once a humble piece of leather into a non-trivial braid of leather strips that lie somehow lie flat after the right sequence of manipulations is performed. We provide a group theoretic definition of this Magic Braid Group as a subgroup of the ordinary planar braid group and show that the fishtail braids form an infinite family of magic braids.</p>
     </div>
     <div class="contributed-talk">
-    <p>Juliet Treip</p>
+    <p><strong>Juliet Treip</strong></p>
      <p><strong>Title:</strong> Box spaces of groups</p>
     <p><strong>Abstract:</strong> The box space $\square_{(N_i)}(G)$ of a finitely generated residually finite infinite group $G$ with respect to a filtration $(N_n)$ of $G$ and a finite generating set $S$ of $G$ is the metric space on the disjoint union of the quotients $(G/N_n)_n$ in which the metric on each component $G/N_n$ is the Cayley-graph metric induced by $S$. Box spaces often have unusual geometric properties that reflect the underlying algebraic or analytic properties of the original infinite group; for example, box spaces are generally more difficult to cut than the original space from which they are constructed, meaning they have a greater separation profile. In this talk I will discuss some of the properties of box spaces, how they compare to those of the original space, and how we can use box spaces to gain insight into properties of the original space.</p>
   </div>
 
  <div class="contributed-talk">
-  <p>Naina Praveen</p>
+  <p><strong>Naina Praveen</strong></p>
      <p><strong>Title:</strong> Is this Clickbait?</p>
     <p><strong>Abstract:</strong> Is the viral "fruit equation" really just a meme? Join Mr. Orange, Mr. Bourbaki, and Erif as they tackle a "99.9% of people cannot solve this"-puzzle. In this 20-minute quest, we will navigate a world of atoms (primes), portals (reduction types), and diamonds (Kodaira types). Along the way, we’ll collect a variety of mushrooms to help us reach the maximum high score -- a loot of infinite diamonds! :)</p>
   </div>
   
    <div class="contributed-talk">
-      <p>Sara Varljen</p>
+      <p><strong>Sara Varljen</strong></p>
       <p><strong>Title:</strong> Computing a presentation for Bianchi groups</p>
       <p><strong>Abstract:</strong> Bianchi groups, defined as $\operatorname{PSL}_2(\mathcal{O_k})$ where $\mathcal{O_k}$ is the ring of integers of an imaginary quadratic field $k$, are a higher-dimensional analogue of the classical modular group. Just as $\operatorname{PSL}_2(\mathbb{Z})$ acts on the upper half-plane, Bianchi groups act on hyperbolic 3-space. In this talk, I will outline the geometric properties of these groups and present the construction of a deformation retract of the hyperbolic 3-space that is invariant under their action. This retract is a CW-complex which can be useful for computing spaces of Bianchi modular forms, but we will focus on using it to recover a formal presentation for the group. We will go through Brown's algorithm for finding generators and relations for the group by looking at a concrete example.</p>
   </div>
@@ -52,37 +52,37 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 <details>
   <summary>Tuesday morning</summary>
    <div class="contributed-talk">
-       <p>Lucia Noelle</p>
+       <p><strong>Lucia Noelle</strong></p>
        <p><strong>Title: </strong>Adventures in Fock Spaces</p>
        <p><strong>Abstract: </strong>Fock spaces are fundamental objects in the representation theory of quantum groups. In this talk I will give an overview of the combinatorics underlying it as well as present some connections to Degenerate Affine Hecke Algebras and Rational Cherednik Algebras. Join me for the journey!</p>
     </div>
   
    <div class="contributed-talk">
-       <p>Tomás Laorni Manopulo</p>
+       <p><strong>Tomás Laorni Manopulo</strong></p>
        <p><strong>Title: </strong>Counting real sheaves on toric surfaces.</p>
        <p><strong>Abstract: </strong>In 1991, Klyachko proved a beautiful formula calculating the Euler Characteristic of the moduli space of rank-two stable torsion-free sheaves on the complex projective plane with given Chern class. His method uses toric geometry and has been expanded and applied to prove different versions of the same computation for other surfaces, giving insight also to wallcrossing phenomena which aren't visible on the projective plane. After motivating the problem and recalling the basic constructions involved, we describe a readaptation of these methods for the real projective plane which generalizes to real models of other toric surfaces.</p>
     </div>
     
    <div class="contributed-talk">
-       <p>Sofía Marlasca Aparicio</p>
+       <p><strong>Sofía Marlasca Aparicio</strong></p>
        <p><strong>Title: </strong>Ultrasolid Deformation Theory</p>
        <p><strong>Abstract: </strong>Ultrasolid Deformation Theory: In a recent paper, we introduced ultrasolid modules, a generalisation of the solid modules of Clausen and Scholze that provide a well-behaved framework for formal geometry. We introduce new results with applications in deformation theory. In particular, we consider deformation problems in infinitely many dimensions, a question which makes no use of ultrasolid geometry. Somewhat surprisingly, these are completely classified by ultrasolid Lie algebras. This makes use of higher category theory, Koszul duality and a new decomposition of the Lie operad.</p>
     </div>
 
    <div class="contributed-talk">
-       <p>Lena Wurzinger</p>
+       <p><strong>Lena Wurzinger</strong></p>
        <p><strong>Title: </strong>Towards lattices of fixed determinanty</p>
        <p><strong>Abstract: </strong>I will report on ongoing work regarding counting (primitive) lattices in Z^n of fixed determinant. In particular, I will derive asymptotics for the number of rank-2 lattices in  Z^n of fixed determinant, and discuss improvements, in special cases, of the error term in the asymptotics for the number of points of bounded height on Grassmannian varieties.</p>
     </div>
 
   <div class="contributed-talk">
-       <p>Claire Frechette</p>
+       <p><strong>Claire Frechette</strong></p>
        <p><strong>Title: </strong>Large Sums of Divisor-Bounded Multiplicative Functions</p>
        <p><strong>Abstract: </strong>Given a multiplicative function f, let $S(x, f) = \sum_{n≤x} f(n)$ be the associated partial sum. In this talk, we extend our prior work on bounding the partial sums of multiplicative functions arising in number theory, such as coefficients of modular forms, to discuss how partial sums of individual functions affect the partial sum of the product. Specifically, we show that lower bounds on partial sums of divisor-bounded functions result in magnified lower bounds on the partial sums associated to their products. Inspired by analytic techniques of Granville and Soundararajan for Dirichlet characters, we show that this type of bound can be extended not only to coefficients of modular forms, but to any pair of functions bounded by the same power of the divisor function.</p>
     </div>
 
   <div class="contributed-talk">
-       <p>Simona Fryšová</p>
+       <p><strong>Simona Fryšová</strong></p>
        <p><strong>Title: </strong>Additively indecomposable quadratic forms over biquadratic fields and the simplest cubic fields</p>
        <p><strong>Abstract: </strong>Additively indecomposable quadratic forms over the integers have been studied for many years. They become particularly interesting when the coefficients are taken to be algebraic integers in a number field. In this work, we focus on totally real biquadratic fields and the simplest cubic fields. Our main result establishes the existence of an additively indecomposable binary quadratic form over every totally real biquadratic field, with an analogous result for the simplest cubic fields. Moreover, in the cubic case we provide a lower bound on the number of non-decomposable binary quadratic forms up to equivalence. This is joint work with Magdaléna Tinková.</p>
     </div>
