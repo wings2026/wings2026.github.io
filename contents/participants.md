@@ -2,7 +2,6 @@ Audrey Antoine — Utrecht University \
 Disha Atukuri — University of Bordeaux \
 Edwina Aylward — UCL (LSGNT) \
 Mia Beard — University of Oxford\
-Mebarka Bettayeb — Universität Basel\
 Laura Bradby — Warwick University\
 Eva Brenner — Ludwig-Maximilians-Universität München\
 Anna Bresciani — UCL (LSGNT)\
@@ -15,7 +14,6 @@ Simona Fryšová — Charles University\
 Silvia Gangeri — UCL (LSGNT)\
 Thais Gomes Ribeiro — University of Birmingham\
 Samira le Grand — Utrecht University\
-Anisa Hassan — Brunel University of London\
 Abigail Hollingsworth — University of Warwick\
 Tomás Laorni Manopulo — University of Utrecht\
 Isabella Lewis — The Open University\
