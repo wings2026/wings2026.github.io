@@ -10996,3 +10996,31 @@ html, body {
   overflow-x: hidden;
 }
 
+details {
+  border: 2px solid #aaaaaa;
+  border-radius: 6px;
+  padding: 0.5em 0.5em 0;
+  border-color: #72598b;
+  margin-bottom: 0.5rem;
+}
+
+
+summary {
+  font-weight: 600;
+  margin: -0.5em -0.5em 0;
+  padding: 0.5em;
+  color: #72598b;
+  font-size: 1.5rem;
+  font-family: Mulish, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+details[open] {
+  padding: 0.5em;
+}
+
+details[open] summary {
+  border-bottom: 2px solid #aaaaaa;
+  margin-bottom: 0.5em;
+  border-bottom-color: #72598b;
+}
+
