@@ -11035,3 +11035,12 @@ details[open] summary {
   border-bottom-color: #72598b;
 }
 
+.contributed-talk {
+  margin-bottom: 1.5rem;
+}
+
+
+.contributed-talk p {
+  margin: 0.5 rem;
+}
+
