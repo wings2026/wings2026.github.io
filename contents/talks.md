@@ -132,9 +132,9 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
   <p><strong>Abstract: </strong>
 The Appell series $F_2(\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2 \mid x,y)$ is a complex hypergeometric function in two variables that generalises the classical univariate Gaussian hypergeometric series $_2F_1.$ 
 
-The function $F_2$ has an integral representation which allows one to interpret it as a period of a family of algebraic varieties over $\mathbb{C}.$ Moreover, the integral representation motivates the definition of an analogous Appell function $F_2(\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2 \mid t_1,t_2)$ over finite fields. The latter was used by Akio Nakagawa to describe the rational points on the fibres of a family of varieties $X$ over $\mathbb{F}_q$ when the hypergeometric parameters $\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2$ are \emph{non-degenerate}. 
+The function $F_2$ has an integral representation which allows one to interpret it as a period of a family of algebraic varieties over $\mathbb{C}.$ Moreover, the integral representation motivates the definition of an analogous Appell function $F_2(\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2 \mid t_1,t_2)$ over finite fields. The latter was used by Akio Nakagawa to describe the rational points on the fibres of a family of varieties $X$ over $\mathbb{F}_q$ when the hypergeometric parameters $\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2$ are non-degenerate. 
 
-In this talk, I will consider some progress made towards generalising Nakagawa's result in order to incorporate \emph{degenerate parameters}. </p>
+In this talk, I will consider some progress made towards generalising Nakagawa's result in order to incorporate degenerate parameters. </p>
 </div>
 
 <div class="contributed-talk">
