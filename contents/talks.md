@@ -20,3 +20,23 @@ In this talk we will discuss some aspects of such quantitative estimates for geo
 In the first part of this talk, we describe a relation between the regularized determinant of the twisted Laplacian and the twisted Selberg zeta function associated to a compact hyperbolic orbisurface. Our approach, based on the Laplace–Mellin type integral transformations, allows us to compute explicitly the multiplicative constant, the torsion factor, and to analyze its dependence on representation parameters. For a  sequence of non-unitary representations satisfying a boundedness assumption, we prove that the asymptotic behavior of this torsion factor coincides with that of higher-dimensional Reidemeister torsion, up to an absolute constant.
 In the second part, we turn to sequences of compact Riemann surfaces whose genus becomes increasingly large. For these surfaces, we study the asymptotics of the sequence of determinants of the Laplacian twisted by certain unitary multiplier systems. We prove that, after normalizing by the volume of the surface, under certain natural assumptions, the limit equals a universal constant that can be described using classical special functions. 
 This work is joint with Jay Jorgenson and Polyxeni Spilioti.
+
+<h4 style="color:#72598b;">Contributed talks</h4>
+<details>
+  <summary>Monday afternoon</summary>
+</details>
+<details>
+  <summary>Tuesday morning</summary>
+</details>
+<details>
+  <summary>Tuesday afternoon</summary>
+</details>
+<details>
+  <summary>Wednesday morning</summary>
+</details>
+<details>
+  <summary>Wednesday afternoon</summary>
+</details>
+<details>
+  <summary>Thursday morning</summary>
+</details>
