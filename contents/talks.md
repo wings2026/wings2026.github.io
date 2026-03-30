@@ -24,6 +24,10 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 <div class="contributed-talks">Contributed talks</div>
 <details>
   <summary>Monday afternoon</summary>
+   <p>Abigail Hollingsworth</p>
+   <p><strong>Title:</strong> The Magic Braid Group</p>
+  <p><strong>Abstract:</strong> We model configurations of these twisted strips of leather using framed braids and the manipulations of a leatherworker with a list of relations. We define the Leather Braid Group as the quotient of the framed braid group by these relations. The real magic of the leatherworker is apparent when they are able to successfully turn what was once a humble piece of leather into a non-trivial braid of leather strips that lie somehow lie flat after the right sequence of manipulations is performed. We provide a group theoretic definition of this Magic Braid Group as a subgroup of the ordinary planar braid group and show that the fishtail braids form an infinite family of magic braids.</p>
+</div>
 </details>
 <details>
   <summary>Tuesday morning</summary>
