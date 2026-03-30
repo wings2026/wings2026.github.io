@@ -21,7 +21,7 @@ In the first part of this talk, we describe a relation between the regularized d
 In the second part, we turn to sequences of compact Riemann surfaces whose genus becomes increasingly large. For these surfaces, we study the asymptotics of the sequence of determinants of the Laplacian twisted by certain unitary multiplier systems. We prove that, after normalizing by the volume of the surface, under certain natural assumptions, the limit equals a universal constant that can be described using classical special functions. 
 This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 
-<h7>Contributed talks</h7>
+<div class="contributed-talks">Contributed talks</div>
 <details>
   <summary>Monday afternoon</summary>
 </details>
