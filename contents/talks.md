@@ -51,6 +51,41 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 </details>
 <details>
   <summary>Tuesday morning</summary>
+   <div class="contributed-talk">
+       <p>Lucia Noelle</p>
+       <p><strong>Title: </strong>Adventures in Fock Spaces</p>
+       <p><strong>Abstract: </strong>Fock spaces are fundamental objects in the representation theory of quantum groups. In this talk I will give an overview of the combinatorics underlying it as well as present some connections to Degenerate Affine Hecke Algebras and Rational Cherednik Algebras. Join me for the journey!</p>
+    </div>
+  
+   <div class="contributed-talk">
+       <p>Tomás Laorni Manopulo</p>
+       <p><strong>Title: </strong>Counting real sheaves on toric surfaces.</p>
+       <p><strong>Abstract: </strong>In 1991, Klyachko proved a beautiful formula calculating the Euler Characteristic of the moduli space of rank-two stable torsion-free sheaves on the complex projective plane with given Chern class. His method uses toric geometry and has been expanded and applied to prove different versions of the same computation for other surfaces, giving insight also to wallcrossing phenomena which aren't visible on the projective plane. After motivating the problem and recalling the basic constructions involved, we describe a readaptation of these methods for the real projective plane which generalizes to real models of other toric surfaces.</p>
+    </div>
+    
+   <div class="contributed-talk">
+       <p>Sofía Marlasca Aparicio</p>
+       <p><strong>Title: </strong>Ultrasolid Deformation Theory</p>
+       <p><strong>Abstract: </strong>Ultrasolid Deformation Theory: In a recent paper, we introduced ultrasolid modules, a generalisation of the solid modules of Clausen and Scholze that provide a well-behaved framework for formal geometry. We introduce new results with applications in deformation theory. In particular, we consider deformation problems in infinitely many dimensions, a question which makes no use of ultrasolid geometry. Somewhat surprisingly, these are completely classified by ultrasolid Lie algebras. This makes use of higher category theory, Koszul duality and a new decomposition of the Lie operad.</p>
+    </div>
+
+   <div class="contributed-talk">
+       <p>Lena Wurzinger</p>
+       <p><strong>Title: </strong>Towards lattices of fixed determinanty</p>
+       <p><strong>Abstract: </strong>I will report on ongoing work regarding counting (primitive) lattices in Z^n of fixed determinant. In particular, I will derive asymptotics for the number of rank-2 lattices in  Z^n of fixed determinant, and discuss improvements, in special cases, of the error term in the asymptotics for the number of points of bounded height on Grassmannian varieties.</p>
+    </div>
+
+  <div class="contributed-talk">
+       <p>Claire Frechette</p>
+       <p><strong>Title: </strong>Large Sums of Divisor-Bounded Multiplicative Functions</p>
+       <p><strong>Abstract: </strong>Given a multiplicative function f, let $S(x, f) = \sum_{n≤x} f(n)$ be the associated partial sum. In this talk, we extend our prior work on bounding the partial sums of multiplicative functions arising in number theory, such as coefficients of modular forms, to discuss how partial sums of individual functions affect the partial sum of the product. Specifically, we show that lower bounds on partial sums of divisor-bounded functions result in magnified lower bounds on the partial sums associated to their products. Inspired by analytic techniques of Granville and Soundararajan for Dirichlet characters, we show that this type of bound can be extended not only to coefficients of modular forms, but to any pair of functions bounded by the same power of the divisor function.</p>
+    </div>
+
+  <div class="contributed-talk">
+       <p>Simona Fryšová</p>
+       <p><strong>Title: </strong>Additively indecomposable quadratic forms over biquadratic fields and the simplest cubic fields</p>
+       <p><strong>Abstract: </strong>Additively indecomposable quadratic forms over the integers have been studied for many years. They become particularly interesting when the coefficients are taken to be algebraic integers in a number field. In this work, we focus on totally real biquadratic fields and the simplest cubic fields. Our main result establishes the existence of an additively indecomposable binary quadratic form over every totally real biquadratic field, with an analogous result for the simplest cubic fields. Moreover, in the cubic case we provide a lower bound on the number of non-decomposable binary quadratic forms up to equivalence. This is joint work with Magdaléna Tinková.</p>
+    </div>
 </details>
 <details>
   <summary>Tuesday afternoon</summary>
