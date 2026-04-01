@@ -127,14 +127,9 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 </div>
 
 <div class="contributed-talk">
-  <p><strong>Thais Gomes Ribeiro</strong></p>
-  <p><strong>Title: </strong>Appell hypergeometric functions</p>
-  <p><strong>Abstract: </strong>
-The Appell series $F_2(\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2 \mid x,y)$ is a complex hypergeometric function in two variables that generalises the classical univariate Gaussian hypergeometric series $_2F_1.$ 
-
-The function $F_2$ has an integral representation which allows one to interpret it as a period of a family of algebraic varieties over $\mathbb{C}.$ Moreover, the integral representation motivates the definition of an analogous Appell function $F_2(\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2 \mid t_1,t_2)$ over finite fields. The latter was used by Akio Nakagawa to describe the rational points on the fibres of a family of varieties $X$ over $\mathbb{F}_q$ when the hypergeometric parameters $\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2$ are non-degenerate. 
-
-In this talk, I will consider some progress made towards generalising Nakagawa's result in order to incorporate degenerate parameters. </p>
+  <p><strong>Catinca Mujdei</strong></p>
+  <p><strong>Title: </strong>The Weyl bound for Dirichlet $L$-functions</p>
+  <p><strong>Abstract: </strong>Given an automorphic $L$-function $L(s,\pi)$ of analytic conductor $Q_\pi(s)$, the Generalized Lindelöf Hypothesis predicts the sharp upper bound $|L(1/2+it,\pi)|\ll_\varepsilon Q_\pi(t)^\varepsilon$ on the critical line. In full generality, the best one can prove (unconditionally) is the convexity bound $|L(1/2+it,\pi)|\ll_\varepsilon Q_\pi(t)^{1/4+\varepsilon}$. The aim of the subconvexity problem is to improve upon the exponent $1/4$. The first subconvex estimate is due to Hardy--Littlewood, who showed that $\zeta(1/2+it)\ll_\varepsilon(1+|t|)^{1/6+\varepsilon}$ using analytic methods of Weyl. A natural follow-up question to ask is whether this ``Weyl bound'' also holds for $L$-functions attached to Dirichlet characters of conductor $q\rightarrow\infty$. Burgess proved the first subconvex bound in this setting, obtaining the exponent $3/16$, which falls short of the Weyl exponent. Conrey and Iwaniec later obtained the Weyl bound for odd square-free $q$, and their work was subsequently extended to arbitrary $q$ by Petrow and Young. I will explain the idea behind the proof of this Weyl bound for Dirichlet $L$-functions, which relies on the method of moments, the spectral theory of $GL_2$-automorphic forms, and Deligne's solution to the Weil conjectures for varieties over finite fields. If time permits, I will mention some of my own work on the cubic moment associated to this problem.</p>
 </div>
 
 <div class="contributed-talk">
@@ -155,6 +150,17 @@ In this talk, I will consider some progress made towards generalising Nakagawa's
   <p><strong>Anna MacIain</strong></p>
   <p><strong>Title: </strong>Constructing Spaces via Representation Theory</p>
   <p><strong>Abstract: </strong>Quiver GIT is a way to construct moduli spaces in algebraic geometry. In this talk I will introduce quiver GIT and illustrate this concept in various contexts.</p>
+</div>
+
+<div class="contributed-talk">
+  <p><strong>Thais Gomes Ribeiro</strong></p>
+  <p><strong>Title: </strong>Appell hypergeometric functions</p>
+  <p><strong>Abstract: </strong>
+The Appell series $F_2(\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2 \mid x,y)$ is a complex hypergeometric function in two variables that generalises the classical univariate Gaussian hypergeometric series $_2F_1.$ 
+
+The function $F_2$ has an integral representation which allows one to interpret it as a period of a family of algebraic varieties over $\mathbb{C}.$ Moreover, the integral representation motivates the definition of an analogous Appell function $F_2(\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2 \mid t_1,t_2)$ over finite fields. The latter was used by Akio Nakagawa to describe the rational points on the fibres of a family of varieties $X$ over $\mathbb{F}_q$ when the hypergeometric parameters $\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2$ are non-degenerate. 
+
+In this talk, I will consider some progress made towards generalising Nakagawa's result in order to incorporate degenerate parameters. </p>
 </div>
 
 <div class="contributed-talk">
