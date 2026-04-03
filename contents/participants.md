@@ -22,6 +22,7 @@ Anna MacIain — University of Glasgow\
 Sofía Marlasca Aparicio — University of Oxford\
 Júlia Martínez-Marín — University of Bristol\
 Sara Mehidi — Utrecht University\
+Catinca Mujdei - UCL (LSGNT)\
 Lucia Noelle — University of Glasgow\
 Emma Pechouckova — Charles University\
 Lucy Phillips — Imperial College London\
