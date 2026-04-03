@@ -71,8 +71,8 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 
    <div class="contributed-talk">
        <p><strong>Lena Wurzinger</strong></p>
-       <p><strong>Title: </strong>Towards lattices of fixed determinanty</p>
-       <p><strong>Abstract: </strong>I will report on ongoing work regarding counting (primitive) lattices in Z^n of fixed determinant. In particular, I will derive asymptotics for the number of rank-2 lattices in  Z^n of fixed determinant, and discuss improvements, in special cases, of the error term in the asymptotics for the number of points of bounded height on Grassmannian varieties.</p>
+       <p><strong>Title: </strong>Towards lattices of fixed determinant</p>
+       <p><strong>Abstract: </strong>I will report on ongoing work regarding counting (primitive) lattices in $\mathbb{Z}^n$ of fixed determinant. In particular, I will derive asymptotics for the number of rank-2 lattices in  $\mathbb{Z}^n$ of fixed determinant, and discuss improvements, in special cases, of the error term in the asymptotics for the number of points of bounded height on Grassmannian varieties.</p>
     </div>
 
   <div class="contributed-talk">
