@@ -104,7 +104,8 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 
 <div class="contributed-talk">
   <p><strong>Audrey Antoine</strong></p>
-  <p><strong>Title: </strong>The geometric Manin’s conjecture</p>
+  <p><strong>Title: </strong>Counting Campana curves on del Pezzo surfaces and the geometric Manin’s conjecture</p>
+  <p><strong>Abstract: </strong>In this talk I will give a reminder of what are Campana points on algebraic varieties, as well as Manin’s conjecture. Then I will give a presentation of the geometric case (on function fields), in which we count curves instead of points as well as giving the translation of a Campana condition in this case. I will then explain my question which is counting Campana curves on del Pezzo surfaces using the torsor’s method.</p>
 </div>
 
 <div class="contributed-talk">
