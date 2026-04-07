@@ -96,10 +96,10 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
   <p><strong>Abstract: </strong>The mapping class group is the group of all orientation-preserving self-homeomorphisms of a surface (up to isotopy). Mapping classes define a natural action on the first homology of the surface; this gives us a representation from the mapping class group into the integral symplectic group. The kernel of this representation, the Torelli group, is the rich and mysterious subgroup of the mapping class group whose action on the first homology is trivial. We construct some new relations in the Torelli group and discuss some work in progress aimed at studying its algebraic structure by combining work by Birman, Johnson and Putman.</p>
 </div>
 
-<div class="contributed-talk">
-  <p><strong>Sara Mehidi</strong></p>
-  <p><strong>Title: </strong>Separable Campana Rational Connectedness of Toric Orbifolds</p>
-  <p><strong>Abstract: </strong>Rational connectedness measures the abundance of rational curves on a projective variety $X$. Campana rational connectedness extends this notion to orbifolds $(X,D)$, that is, projective varieties equipped with a boundary divisor, by imposing controlled intersection conditions with the boundary. Over fields of positive characteristic, rational connectedness must be refined to its separable version. Using stable log maps, boundary contact data can be encoded combinatorially for toric varieties, allowing the study of separable Campana rational connectedness through combinatorial methods. In this talk, we briefly introduce the theory and then discuss separable Campana rational connectedness of toric orbifolds, presenting both positive results and explicit counterexamples. This is joint work with Enhao Feng.</p>
+  <div class="contributed-talk">
+  <p><strong>Anna MacIain</strong></p>
+  <p><strong>Title: </strong>Constructing Spaces via Representation Theory</p>
+  <p><strong>Abstract: </strong>Quiver GIT is a way to construct moduli spaces in algebraic geometry. In this talk I will introduce quiver GIT and illustrate this concept in various contexts.</p>
 </div>
 
 <div class="contributed-talk">
@@ -147,10 +147,10 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 </details>
 <details>
   <summary>Wednesday afternoon</summary>
-  <div class="contributed-talk">
-  <p><strong>Anna MacIain</strong></p>
-  <p><strong>Title: </strong>Constructing Spaces via Representation Theory</p>
-  <p><strong>Abstract: </strong>Quiver GIT is a way to construct moduli spaces in algebraic geometry. In this talk I will introduce quiver GIT and illustrate this concept in various contexts.</p>
+<div class="contributed-talk">
+  <p><strong>Sara Mehidi</strong></p>
+  <p><strong>Title: </strong>Separable Campana Rational Connectedness of Toric Orbifolds</p>
+  <p><strong>Abstract: </strong>Rational connectedness measures the abundance of rational curves on a projective variety $X$. Campana rational connectedness extends this notion to orbifolds $(X,D)$, that is, projective varieties equipped with a boundary divisor, by imposing controlled intersection conditions with the boundary. Over fields of positive characteristic, rational connectedness must be refined to its separable version. Using stable log maps, boundary contact data can be encoded combinatorially for toric varieties, allowing the study of separable Campana rational connectedness through combinatorial methods. In this talk, we briefly introduce the theory and then discuss separable Campana rational connectedness of toric orbifolds, presenting both positive results and explicit counterexamples. This is joint work with Enhao Feng.</p>
 </div>
 
 <div class="contributed-talk">
