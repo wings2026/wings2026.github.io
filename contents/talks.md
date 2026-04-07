@@ -204,6 +204,8 @@ In this talk, I will consider some progress made towards generalising Nakagawa's
 <div class="contributed-talk">
   <p><strong>Ashleigh Ratcliffe</strong></p>
   <p><strong>Title: </strong>Integers expressible as a difference of two rational fourth powers</p>
+  <p><strong>Abstract: </strong>We give a complete list of the integers n≤10000 that can be expressed as a difference of two rational fourth powers. We also describe the methods used to prove non-representability, including congruence arguments, parametrisations via Pythagorean triples, reductions to elliptic curves, the Mordell-Weil sieve, and factorisation in the Gaussian integers.</p>
+
 </div>
 
 <div class="contributed-talk">
