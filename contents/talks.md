@@ -136,6 +136,9 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 <div class="contributed-talk">
   <p><strong>Teresa Ferrer de Noguera</strong></p>
   <p><strong>Title: </strong>On Galois representations of A5-type</p>
+  <p><strong>Abstract: </strong>Galois representations are the representations of Galois groups of certain extension fields that are relevant to the study of elementary number theory problems. Modular forms are complex functions that satisfy certain holomorphy and transformation conditions which encode valuable information and are nice to work with. There is a surprising connection between them that lets us study Galois representation theory from a complex-analytical perspective, and viceversa.
+We give an overview of some relevant results in Galois representation theory, focusing on Serre's modularity conjecture and Tate's theorem, and give an introduction to entangled modular forms that give rise to the same projective representation.
+We conclude by presenting some of our recent results, focusing in particular on modular forms whose associated Galois representations have image isomorphic to the alternating group A5.</p>
 </div>
 
 <div class="contributed-talk">
@@ -167,11 +170,14 @@ In this talk, I will consider some progress made towards generalising Nakagawa's
 <div class="contributed-talk">
   <p><strong>Giovanna De Lauri</strong></p>
   <p><strong>Title: </strong>Hecke modules and ternary quadratic lattices</p>
+   <p><strong>Abstract: </strong>We consider Hecke modules of orthogonal modular forms attached to definite lattices of half-discriminant $p^2$ and $4p^2$. With the aid of examples for even lattices, we will see Jacquet-Langlands style correspondences with spaces of classical modular forms. We will also provide a state-of-the-art overview of my current research, including odd lattices. 
+(This is joint work with Dan Fretwell)</p>
 </div>
 
 <div class="contributed-talk">
   <p><strong>Ana Marija Vego</strong></p>
   <p><strong>Title: </strong>Interpolating Asai-Flach classes in Coleman families</p>
+   <p><strong>Abstract: </strong>The Iwasawa Main Conjecture (IMC) asserts that there are explicit relations between p-adic L-functions and certain Iwasawa modules closely related to Selmer groups. We will discuss progress towards IMC in the case of Hilbert modular forms, achieved by interpolating an Euler system of Asai-Flach classes in 3-parameter p-adic families; with Hilbert modular forms varying in Coleman families and a third variable for twists by characters. This extends work of Lei, Loeffler, and Zerbes, who establish bounds toward this conjecture for the Asai representation using the Asai-Flach Euler system.</p>
 </div>
 
 </details>
@@ -192,7 +198,7 @@ In this talk, I will consider some progress made towards generalising Nakagawa's
 <div class="contributed-talk">
   <p><strong>Lucrezia Beatrice Lorenzi</strong></p>
   <p><strong>Title: </strong>Bonded Links and Related Algebraic Structures</p>
-  <p><strong>Abstract: </strong>In a recent work, Diamandis, Kauffman, and Lambropoulou introduced bonded links: a modern structure in the realm of knot theory, consisting of classical links endowed with embedded arcs with endpoints on the link, called bonds. Analogously to the classical Alexander theorem and the standard closure of braids, which relate classical links to the braid group (on n strands, B_n), their algebraic behaviour is described by the monoid of bonded braids (on n strands, BBM_n). The existence of a map BBM_n \to B_n, which sends bonds to Artin pure braid generators A_ij, sheds further light on the nature of bonds. The theory is very pictorial, making it suited for slides. Time permitting, we will dwell in motivation for quantum invariants of said objects. Based on a (hopefully almost finished) joint work with Sofia Lambropoulou.</p>
+  <p><strong>Abstract: </strong>In a recent work, Diamandis, Kauffman, and Lambropoulou introduced bonded links: a modern structure in the realm of knot theory, consisting of classical links endowed with embedded arcs with endpoints on the link, called bonds. Analogously to the classical Alexander theorem and the standard closure of braids, which relate classical links to the braid group (on $n$ strands, $B_n$), their algebraic behaviour is described by the monoid of bonded braids (on $n$ strands, $BBM_n$). The existence of a map $BBM_n \to B_n$, which sends bonds to Artin pure braid generators $A_ij$, sheds further light on the nature of bonds. The theory is very pictorial, making it suited for slides. Time permitting, we will dwell in motivation for quantum invariants of said objects. Based on a (hopefully almost finished) joint work with Sofia Lambropoulou.</p>
 </div>
 
 <div class="contributed-talk">
