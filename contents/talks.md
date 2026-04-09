@@ -109,8 +109,9 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 </div>
 
 <div class="contributed-talk">
-  <p><strong>Anna Zanoli</strong></p>
-  <p><strong>Title: </strong>Counting D4-field extensions by multi-invariants</p>
+  <p><strong>Sièna van Schaick</strong></p>
+  <p><strong>Title: </strong>Low degree points on curves over function fields</p>
+  <p><strong>Abstract: </strong>The degree of a closed point on a curve is the degree of the field extension given by the residue field of the point extending the ground field. Theorems by Faltings, Harris-Silverman, Abramovich-Harris and Kadets-Vogt geometrically classify curves over number fields having a potentially dense set of points of degree 1, 2, 3, 4 and 5. I will explain how to generalize these results to curves over function fields of characteristic zero.</p>
 </div>
 </details>
 <details>
@@ -128,9 +129,8 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
 </div>
 
 <div class="contributed-talk">
-  <p><strong>Catinca Mujdei</strong></p>
-  <p><strong>Title: </strong>The Weyl bound for Dirichlet $L$-functions</p>
-  <p><strong>Abstract: </strong>Given an automorphic $L$-function $L(s,\pi)$ of analytic conductor $Q_\pi(s)$, the Generalized Lindelöf Hypothesis predicts the sharp upper bound $|L(1/2+it,\pi)|\ll_\varepsilon Q_\pi(t)^\varepsilon$ on the critical line. In full generality, the best one can prove (unconditionally) is the convexity bound $|L(1/2+it,\pi)|\ll_\varepsilon Q_\pi(t)^{1/4+\varepsilon}$. The aim of the subconvexity problem is to improve upon the exponent $1/4$. The first subconvex estimate is due to Hardy--Littlewood, who showed that $\zeta(1/2+it)\ll_\varepsilon(1+|t|)^{1/6+\varepsilon}$ using analytic methods of Weyl. A natural follow-up question to ask is whether this "Weyl bound" also holds for $L$-functions attached to Dirichlet characters of conductor $q\rightarrow\infty$. Burgess proved the first subconvex bound in this setting, obtaining the exponent $3/16$, which falls short of the Weyl exponent. Conrey and Iwaniec later obtained the Weyl bound for odd square-free $q$, and their work was subsequently extended to arbitrary $q$ by Petrow and Young. I will explain the idea behind the proof of this Weyl bound for Dirichlet $L$-functions, which relies on the method of moments, the spectral theory of $GL_2$-automorphic forms, and Deligne's solution to the Weil conjectures for varieties over finite fields. If time permits, I will mention some of my own work on the cubic moment associated to this problem.</p>
+  <p><strong>Anna Zanoli</strong></p>
+  <p><strong>Title: </strong>Counting D4-field extensions by multi-invariants</p>
 </div>
 
 <div class="contributed-talk">
@@ -202,9 +202,9 @@ In this talk, I will consider some progress made towards generalising Nakagawa's
 </div>
 
 <div class="contributed-talk">
-  <p><strong>Sièna van Schaick</strong></p>
-  <p><strong>Title: </strong>Low degree points on curves over function fields</p>
-  <p><strong>Abstract: </strong>The degree of a closed point on a curve is the degree of the field extension given by the residue field of the point extending the ground field. Theorems by Faltings, Harris-Silverman, Abramovich-Harris and Kadets-Vogt geometrically classify curves over number fields having a potentially dense set of points of degree 1, 2, 3, 4 and 5. I will explain how to generalize these results to curves over function fields of characteristic zero.</p>
+  <p><strong>Catinca Mujdei</strong></p>
+  <p><strong>Title: </strong>The Weyl bound for Dirichlet $L$-functions</p>
+  <p><strong>Abstract: </strong>Given an automorphic $L$-function $L(s,\pi)$ of analytic conductor $Q_\pi(s)$, the Generalized Lindelöf Hypothesis predicts the sharp upper bound $|L(1/2+it,\pi)|\ll_\varepsilon Q_\pi(t)^\varepsilon$ on the critical line. In full generality, the best one can prove (unconditionally) is the convexity bound $|L(1/2+it,\pi)|\ll_\varepsilon Q_\pi(t)^{1/4+\varepsilon}$. The aim of the subconvexity problem is to improve upon the exponent $1/4$. The first subconvex estimate is due to Hardy--Littlewood, who showed that $\zeta(1/2+it)\ll_\varepsilon(1+|t|)^{1/6+\varepsilon}$ using analytic methods of Weyl. A natural follow-up question to ask is whether this "Weyl bound" also holds for $L$-functions attached to Dirichlet characters of conductor $q\rightarrow\infty$. Burgess proved the first subconvex bound in this setting, obtaining the exponent $3/16$, which falls short of the Weyl exponent. Conrey and Iwaniec later obtained the Weyl bound for odd square-free $q$, and their work was subsequently extended to arbitrary $q$ by Petrow and Young. I will explain the idea behind the proof of this Weyl bound for Dirichlet $L$-functions, which relies on the method of moments, the spectral theory of $GL_2$-automorphic forms, and Deligne's solution to the Weil conjectures for varieties over finite fields. If time permits, I will mention some of my own work on the cubic moment associated to this problem.</p>
 </div>
 
 <div class="contributed-talk">
