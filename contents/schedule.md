@@ -1,4 +1,3 @@
-<p>Below is a tentative schedule for the conference. </p>
 
 <div style="text-align:center;">
   <a href="static/assets/img/schedule_updated.png">
@@ -6,3 +5,4 @@
   </a>
 </div>
 
+<strong style="color:#b6d2dd;">Keynote talks</strong>,<strong style="color:#e3c0cf;"> Contributed talks</strong>.
