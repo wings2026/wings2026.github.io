@@ -4,5 +4,5 @@
     <img src="static/assets/img/schedule_updated.png" style="width:100%; max-width:1100px;">
   </a>
 </div>
-
-<strong style="color:#b6d2dd;">Keynote talks</strong>,<strong style="color:#e3c0cf;"> Contributed talks</strong>.
+<p> </p>
+<strong style="color:#7295a3;">Keynote talks</strong>,<strong style="color:#ab748c;"> Contributed talks</strong>.
