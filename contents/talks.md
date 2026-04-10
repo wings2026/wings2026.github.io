@@ -134,9 +134,11 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
   <p><strong>Abstract: </strong>Ptolemy's Theorem asserts that for four points lying on a circle in the Euclidean plane, the product of the diagonals equals the sum of the product of the opposite side. Casey's Theorem is a generalisation of Ptolemy's Theorem to circles rather than points. Both theorems have generalisations to spherical and hyperbolic geometry and progress has been made in n-dimensional Euclidean space. Penner's Theorem, arising in decorated Teichmüller theory, is a generalisation of Ptolemy's Theorem for horocycles. In this talk we use the hyperboloid model of hyperbolic geometry to reinterpret these theorems and provide n-dimensional version for all three geometries.</p>
 </div>
 
+
 <div class="contributed-talk">
-  <p><strong>Anna Zanoli</strong></p>
-  <p><strong>Title: </strong>Counting D4-field extensions by multi-invariants</p>
+  <p><strong>Dounia Darkaoui</strong></p>
+  <p><strong>Title: </strong>Fast computation of Riemann-Roch spaces</p>
+  <p><strong>Abstract: </strong>Riemann-Roch spaces consist of functions whose zeros are forced and whose poles can be predicted. Goppa codes are based on those functions as a way to generalise Reed-Solomon codes. They can also be used to perform additions in the Jacobian of a curve. I will present a deterministic algorithm computing a basis of a Riemman-Roch space associated to an arbitrary divisor of a curve. It results from arithmetic methods. We employ matrix reduction and the computation of integral bases of well-chosen fractional ideals of suitable Dedekind subrings of the curve’s function field. In particular, the OM algorithm for polynomial factorisation in local fields is needed to compute those bases.</p>
 </div>
 
 <div class="contributed-talk">
@@ -218,11 +220,5 @@ In this talk, I will consider some progress made towards generalising Nakagawa's
   <p><strong>Title: </strong>Integers expressible as a difference of two rational fourth powers</p>
   <p><strong>Abstract: </strong>We give a complete list of the integers n≤10000 that can be expressed as a difference of two rational fourth powers. We also describe the methods used to prove non-representability, including congruence arguments, parametrisations via Pythagorean triples, reductions to elliptic curves, the Mordell-Weil sieve, and factorisation in the Gaussian integers.</p>
 
-</div>
-
-<div class="contributed-talk">
-  <p><strong>Dounia Darkaoui</strong></p>
-  <p><strong>Title: </strong>Fast computation of Riemann-Roch spaces</p>
-  <p><strong>Abstract: </strong>Riemann-Roch spaces consist of functions whose zeros are forced and whose poles can be predicted. Goppa codes are based on those functions as a way to generalise Reed-Solomon codes. They can also be used to perform additions in the Jacobian of a curve. I will present a deterministic algorithm computing a basis of a Riemman-Roch space associated to an arbitrary divisor of a curve. It results from arithmetic methods. We employ matrix reduction and the computation of integral bases of well-chosen fractional ideals of suitable Dedekind subrings of the curve’s function field. In particular, the OM algorithm for polynomial factorisation in local fields is needed to compute those bases.</p>
 </div>
 </details>
