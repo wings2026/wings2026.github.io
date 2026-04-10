@@ -1,7 +1,6 @@
 Audrey Antoine — Utrecht University \
 Disha Atukuri — University of Bordeaux \
 Edwina Aylward — UCL (LSGNT) \
-Mia Beard — University of Oxford\
 Laura Bradby — Warwick University\
 Eva Brenner — Ludwig-Maximilians-Universität München\
 Anna Bresciani — UCL (LSGNT)\
@@ -43,5 +42,4 @@ Ana Marija Vego — ETH Zurich\
 Maartje Wisse — King's College London (LSGNT)\
 Lena Wurzinger — Institute of Science and Technology Austria (ISTA)\
 Monika Zakrzewska - Universität Bonn\
-Anna Zanoli — ISTA - Institute of Science and Technology Austria
 
