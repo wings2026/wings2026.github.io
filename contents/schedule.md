@@ -1,3 +1,4 @@
+<p> </p>
 
 <div style="text-align:center;">
   <a href="static/assets/img/schedule_updated.png">
