@@ -12,6 +12,7 @@ In the case of surfaces, the concept of « a lot » needs to be precised by prop
 <strong>Abstract:</strong> I will report on some results on the geometry of the Torelli locus in $\mathcal{A}_g$. I will concentrate on the study asymptotic directions in the tangent bundle of the moduli space of curves of genus g, namely those tangent directions that are annihilated by the second fundamental form of the Torelli map. I will show that there exist examples of asymptotic directions for any g >3. I will present one main result obtained in collaboration with E. Colombo and G.P. Pirola, saying that  if the rank of a tangent direction at [C] (with respect to the infinitesimal deformation map) is less than the Clifford index of the curve C, then the tangent direction is not asymptotic. 
 
 <h4 style="color:#72598b;">Solitons of Mean curvature flow and symmetries (Marie-Amelie Lawn, Imperial College London)</h4>
+<strong>Abstract:</strong> We study new examples of translating solitons for the mean curvature flow. To this end, we consider manifolds admitting (pseudo-)Riemannian submersions, a framework that includes cohomogeneity-one isometric actions as a special case. This general setting not only recovers the classical Euclidean examples, but also provides a broad source of new ones. As an application, we completely classify the rotationally invariant translating solitons in Minkowski space, obtaining six distinct types.
 
 
 <h4 style="color:#72598b;">Quantitative estimates for geometric variational problems (Melanie Rupflin, University of Oxford)</h4>
