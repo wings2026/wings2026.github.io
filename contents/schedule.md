@@ -1,4 +1,5 @@
-<p> </p>
+<p>Last updated: Monday evening. </p>
+<p></p>
 
 <div style="text-align:center;">
   <a href="static/assets/img/schedule_updated.png">
@@ -7,4 +8,4 @@
 </div>
 <p> </p>
 <strong style="color:#7295a3;">Keynote talks</strong>,<strong style="color:#ab748c;"> Contributed talks</strong>.
-<p>Last updated: Monday evening. </p>
+
