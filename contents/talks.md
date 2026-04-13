@@ -84,18 +84,24 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
        <p><strong>Title: </strong>Towards lattices of fixed determinant</p>
        <p><strong>Abstract: </strong>I will report on ongoing work regarding counting (primitive) lattices in $\mathbb{Z}^n$ of fixed determinant. In particular, I will derive asymptotics for the number of rank-2 lattices in  $\mathbb{Z}^n$ of fixed determinant, and discuss improvements, in special cases, of the error term in the asymptotics for the number of points of bounded height on Grassmannian varieties.</p>
     </div>
-
-  <div class="contributed-talk">
-       <p><strong>Claire Frechette</strong></p>
-       <p><strong>Title: </strong>Large Sums of Divisor-Bounded Multiplicative Functions</p>
-       <p><strong>Abstract: </strong>Given a multiplicative function f, let $S(x, f) = \sum_{n≤x} f(n)$ be the associated partial sum. In this talk, we extend our prior work on bounding the partial sums of multiplicative functions arising in number theory, such as coefficients of modular forms, to discuss how partial sums of individual functions affect the partial sum of the product. Specifically, we show that lower bounds on partial sums of divisor-bounded functions result in magnified lower bounds on the partial sums associated to their products. Inspired by analytic techniques of Granville and Soundararajan for Dirichlet characters, we show that this type of bound can be extended not only to coefficients of modular forms, but to any pair of functions bounded by the same power of the divisor function.</p>
-    </div>
-
+    
   <div class="contributed-talk">
        <p><strong>Simona Fryšová</strong></p>
        <p><strong>Title: </strong>Additively indecomposable quadratic forms over biquadratic fields and the simplest cubic fields</p>
        <p><strong>Abstract: </strong>Additively indecomposable quadratic forms over the integers have been studied for many years. They become particularly interesting when the coefficients are taken to be algebraic integers in a number field. In this work, we focus on totally real biquadratic fields and the simplest cubic fields. Our main result establishes the existence of an additively indecomposable binary quadratic form over every totally real biquadratic field, with an analogous result for the simplest cubic fields. Moreover, in the cubic case we provide a lower bound on the number of non-decomposable binary quadratic forms up to equivalence. This is joint work with Magdaléna Tinková.</p>
     </div>
+
+    
+<div class="contributed-talk">
+  <p><strong>Thais Gomes Ribeiro</strong></p>
+  <p><strong>Title: </strong>Appell hypergeometric functions</p>
+  <p><strong>Abstract: </strong>
+The Appell series $F_2(\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2 \mid x,y)$ is a complex hypergeometric function in two variables that generalises the classical univariate Gaussian hypergeometric series $_2F_1.$ 
+
+The function $F_2$ has an integral representation which allows one to interpret it as a period of a family of algebraic varieties over $\mathbb{C}.$ Moreover, the integral representation motivates the definition of an analogous Appell function $F_2(\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2 \mid t_1,t_2)$ over finite fields. The latter was used by Akio Nakagawa to describe the rational points on the fibres of a family of varieties $X$ over $\mathbb{F}_q$ when the hypergeometric parameters $\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2$ are non-degenerate. 
+
+In this talk, I will consider some progress made towards generalising Nakagawa's result in order to incorporate degenerate parameters. </p>
+</div>
 </details>
 
 <details>
@@ -106,10 +112,10 @@ This work is joint with Jay Jorgenson and Polyxeni Spilioti.
   <p><strong>Abstract: </strong>The mapping class group is the group of all orientation-preserving self-homeomorphisms of a surface (up to isotopy). Mapping classes define a natural action on the first homology of the surface; this gives us a representation from the mapping class group into the integral symplectic group. The kernel of this representation, the Torelli group, is the rich and mysterious subgroup of the mapping class group whose action on the first homology is trivial. We construct some new relations in the Torelli group and discuss some work in progress aimed at studying its algebraic structure by combining work by Birman, Johnson and Putman.</p>
 </div>
 
-  <div class="contributed-talk">
-  <p><strong>Anna MacIain</strong></p>
-  <p><strong>Title: </strong>Constructing Spaces via Representation Theory</p>
-  <p><strong>Abstract: </strong>Quiver GIT is a way to construct moduli spaces in algebraic geometry. In this talk I will introduce quiver GIT and illustrate this concept in various contexts.</p>
+<div class="contributed-talk">
+  <p><strong>Lucrezia Beatrice Lorenzi</strong></p>
+  <p><strong>Title: </strong>Bonded Links and Related Algebraic Structures</p>
+  <p><strong>Abstract: </strong>In a recent work, Diamandis, Kauffman, and Lambropoulou introduced bonded links: a modern structure in the realm of knot theory, consisting of classical links endowed with embedded arcs with endpoints on the link, called bonds. Analogously to the classical Alexander theorem and the standard closure of braids, which relate classical links to the braid group (on $n$ strands, $B_n$), their algebraic behaviour is described by the monoid of bonded braids (on $n$ strands, $BBM_n$). The existence of a map $BBM_n \to B_n$, which sends bonds to Artin pure braid generators $A_{ij}$, sheds further light on the nature of bonds. The theory is very pictorial, making it suited for slides. Time permitting, we will dwell in motivation for quantum invariants of said objects. Based on a (hopefully almost finished) joint work with Sofia Lambropoulou.</p>
 </div>
 
 <div class="contributed-talk">
@@ -168,16 +174,13 @@ We conclude by presenting some of our recent results, focusing in particular on 
   <p><strong>Abstract: </strong>Rational connectedness measures the abundance of rational curves on a projective variety $X$. Campana rational connectedness extends this notion to orbifolds $(X,D)$, that is, projective varieties equipped with a boundary divisor, by imposing controlled intersection conditions with the boundary. Over fields of positive characteristic, rational connectedness must be refined to its separable version. Using stable log maps, boundary contact data can be encoded combinatorially for toric varieties, allowing the study of separable Campana rational connectedness through combinatorial methods. In this talk, we briefly introduce the theory and then discuss separable Campana rational connectedness of toric orbifolds, presenting both positive results and explicit counterexamples. This is joint work with Enhao Feng.</p>
 </div>
 
-<div class="contributed-talk">
-  <p><strong>Thais Gomes Ribeiro</strong></p>
-  <p><strong>Title: </strong>Appell hypergeometric functions</p>
-  <p><strong>Abstract: </strong>
-The Appell series $F_2(\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2 \mid x,y)$ is a complex hypergeometric function in two variables that generalises the classical univariate Gaussian hypergeometric series $_2F_1.$ 
 
-The function $F_2$ has an integral representation which allows one to interpret it as a period of a family of algebraic varieties over $\mathbb{C}.$ Moreover, the integral representation motivates the definition of an analogous Appell function $F_2(\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2 \mid t_1,t_2)$ over finite fields. The latter was used by Akio Nakagawa to describe the rational points on the fibres of a family of varieties $X$ over $\mathbb{F}_q$ when the hypergeometric parameters $\alpha, \beta_1, \beta_2, \gamma_1,\gamma_2$ are non-degenerate. 
-
-In this talk, I will consider some progress made towards generalising Nakagawa's result in order to incorporate degenerate parameters. </p>
+  <div class="contributed-talk">
+  <p><strong>Anna MacIain</strong></p>
+  <p><strong>Title: </strong>Constructing Spaces via Representation Theory</p>
+  <p><strong>Abstract: </strong>Quiver GIT is a way to construct moduli spaces in algebraic geometry. In this talk I will introduce quiver GIT and illustrate this concept in various contexts.</p>
 </div>
+
 
 <div class="contributed-talk">
   <p><strong>Giovanna De Lauri</strong></p>
@@ -207,11 +210,7 @@ In this talk, I will consider some progress made towards generalising Nakagawa's
   <p><strong>Abstract: </strong>In 2018, Nathan Dowlin proved that there exists a spectral sequence from Khovanov homology to Knot Floer homology, a conjecture of Rasmussen that had been open since 2005. In this talk I will explain the ideas that underpin this construction and explain why it is not yet widely being used in the field, as well as my own work to make the construction more accessible and usable.</p>
 </div>
 
-<div class="contributed-talk">
-  <p><strong>Lucrezia Beatrice Lorenzi</strong></p>
-  <p><strong>Title: </strong>Bonded Links and Related Algebraic Structures</p>
-  <p><strong>Abstract: </strong>In a recent work, Diamandis, Kauffman, and Lambropoulou introduced bonded links: a modern structure in the realm of knot theory, consisting of classical links endowed with embedded arcs with endpoints on the link, called bonds. Analogously to the classical Alexander theorem and the standard closure of braids, which relate classical links to the braid group (on $n$ strands, $B_n$), their algebraic behaviour is described by the monoid of bonded braids (on $n$ strands, $BBM_n$). The existence of a map $BBM_n \to B_n$, which sends bonds to Artin pure braid generators $A_ij$, sheds further light on the nature of bonds. The theory is very pictorial, making it suited for slides. Time permitting, we will dwell in motivation for quantum invariants of said objects. Based on a (hopefully almost finished) joint work with Sofia Lambropoulou.</p>
-</div>
+
 
 <div class="contributed-talk">
   <p><strong>Catinca Mujdei</strong></p>
