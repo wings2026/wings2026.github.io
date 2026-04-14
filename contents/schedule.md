@@ -1,4 +1,4 @@
-<strong>Last updated:</strong> Monday evening.
+<strong>Last updated:</strong> Tuesday afternoon.
 <p></p>
 
 <div style="text-align:center;">
