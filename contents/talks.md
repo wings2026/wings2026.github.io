@@ -197,6 +197,12 @@ In this talk, I will consider some progress made towards generalising Nakagawa's
 <details>
   <summary>Thursday morning</summary>
   <div class="contributed-talk">
+  <p><strong>Disha Atukuri</strong></p>
+  <p><strong>Title: </strong>Algebraic Curves and error-correcting codes: Zeta functions of linear codes</p>
+  <p><strong>Abstract: </strong>There exists an analogue of the famous Riemann Zeta function for smooth projective curves of genus g over a finite field $\mathbb{F}_q$. It is known as the Hasse-Weil Zeta function. The Riemann Hypothesis for curves over finite fields was solved by A. Weil in the 1940's. There also exists an analogue for it in coding theory. My talk will explore this, with a focus on the analogies between the Hasse-Weil zeta function of curves and the Duursma zeta function of linear error-correcting codes.</p>
+</div>
+  
+  <div class="contributed-talk">
   <p><strong>Lucy Phillips</strong></p>
   <p><strong>Title: </strong>Knot Floer homology through pictures</p>
   <p><strong>Abstract: </strong>Knot Floer homology has had numerous applications in knot theory since it was introduced by Ozsvath-Szabo and Rasmussen in 2003. In recent years, Hanselman, Rasmussen and Watson have developed a new, equivalent description of this invariant, entirely in terms of decorated curves in a punctured cylinder. This talk will give a description of this invariant and a brief outline of some of the ways in which it is useful. The talk will assume little to no prior knowledge of low-dimensional topology, and I will include many pictures.</p>
