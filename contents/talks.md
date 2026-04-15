@@ -153,10 +153,8 @@ In this talk, I will consider some progress made towards generalising Nakagawa's
 
 <div class="contributed-talk">
   <p><strong>Teresa Ferrer de Noguera</strong></p>
-  <p><strong>Title: </strong>On Galois representations of A5-type</p>
-  <p><strong>Abstract: </strong>Galois representations are the representations of Galois groups of certain extension fields that are relevant to the study of elementary number theory problems. Modular forms are complex functions that satisfy certain holomorphy and transformation conditions which encode valuable information and are nice to work with. There is a surprising connection between them that lets us study Galois representation theory from a complex-analytical perspective, and viceversa.
-We give an overview of some relevant results in Galois representation theory, focusing on Serre's modularity conjecture and Tate's theorem, and give an introduction to entangled modular forms that give rise to the same projective representation.
-We conclude by presenting some of our recent results, focusing in particular on modular forms whose associated Galois representations have image isomorphic to the alternating group A5.</p>
+  <p><strong>Title: </strong>On Galois representations of $A_5$-type</p>
+  <p><strong>Abstract: </strong> We study the theory that links Galois representations and modular forms, focusing on "entanglement problems". These are related to some conditions on the Galois extensions over which our representations are defined, as well as their relation with congruences between associated modular forms. The aim is to look for congruences between modular forms modulo potentially different primes that give rise to the same projective $A_5$ image, as well as asking the opposite question: given an $A_5$ projective Galois representation, can we find modular forms satisfying the necessary conditions?</p>
 </div>
 
 <div class="contributed-talk">
