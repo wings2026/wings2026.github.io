@@ -8,7 +8,6 @@ Dounia Darkaoui — Université of Caen, Normandy\
 Giovanna De Lauri — Lancaster University\
 Natasha Diederen — UCL (LSGNT)\
 Teresa Ferrer de Noguera — Universitat de Barcelona\
-Claire Frechette — Umeå University\
 Simona Fryšová — Charles University\
 Silvia Gangeri — UCL (LSGNT)\
 Thais Gomes Ribeiro — University of Birmingham\
