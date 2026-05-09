@@ -25,7 +25,7 @@ Silvia Gangeri (University College London)\
 Júlia Martínez-Marín (University of Bristol)
 
 <div style="text-align:center;">
-    <img src="static/assets/img/Conference_photo.jpeg" style="width:80%; max-width:1000px;">
+    <img src="static/assets/img/Conference_photo.jpeg" style="width:100%; max-width:1100px;">
   </a>
 </div>
 <p> </p>
