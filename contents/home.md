@@ -24,5 +24,11 @@ Natasha Diederen (Imperial College London)\
 Silvia Gangeri (University College London)\
 Júlia Martínez-Marín (University of Bristol)
 
+<div style="text-align:center;">
+    <img src="static/assets/img/Conference_photo.jpeg" style="width:80%; max-width:1000px;">
+  </a>
+</div>
+<p> </p>
+
 Links to previous editions of WINGs: [WINGs 2025](https://sites.google.com/view/wings2025/home), [WINGs 2024](https://sites.google.com/view/wings2024/home), [WINGs 2023](https://www.ucl.ac.uk/~ucahbar/wings.html), [WINGs 2022](https://www.ucl.ac.uk/~ucahhgr/wings.html), [WINGs 2021](https://www.ucl.ac.uk/~ucahhgr/wings/old.html).
 
